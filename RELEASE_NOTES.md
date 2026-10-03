@@ -1,28 +1,18 @@
-# Atlas Account Changer — V1.0 Release
+# Atlas Account Changer — V1.0.1
 
-The first full release of Atlas Account Changer for Windows.
+## What's new
 
-## Highlights
+- Edit each saved template using the pencil button next to Delete in the Templates overview.
+- Update its name, colours, notice, notes, group and blank table layout. Cancelling keeps the original template unchanged.
 
-- Steam account management with groups, favorites, search and sorting.
-- Custom tile colours and reusable templates.
-- Optional Atlas Glass appearance.
-- Editable notes tables with independent screenshot columns and a screenshot editor.
-- An update indicator that links to future releases.
+## Fixed
 
-## Final improvements
-
-- Clear text on bright tile colours and after switching between Normal and Glass.
-- Popup windows use the full header as a drag area.
-- Close buttons have smooth hover and click animations.
-- Improved icon alignment, Glass performance and colour transitions.
-- Installer layout adapts to Windows display scaling.
-- Screenshot columns remain independent when editing, saving or removing them.
-- Blank layouts and templates do not copy another account's screenshots.
+- Tiles now keep their own colours when rearranging accounts in My layout, including with Atlas Glass enabled.
+- Drag indicators clear when a move ends or is cancelled.
 
 ## Install
 
-Download **Atlas_Account_Changer_V1.0_Release_Setup.exe** below. Close Atlas before running the installer. Existing accounts and settings are retained when updating or reinstalling.
+Download **Atlas_Account_Changer_V1.0.1_Setup.exe** below. Close Atlas before running the installer. Existing accounts and settings are retained when updating or reinstalling.
 
 ## Windows SmartScreen
 

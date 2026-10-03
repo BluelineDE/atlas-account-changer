@@ -1,3 +1,18 @@
+# V1.0.1
+
+## Templates
+
+- Edit individual saved templates using the pencil button in the Templates overview.
+- Change the template name, colours, notice, notes, group and blank table layout.
+- Cancelling keeps the original template unchanged.
+
+## Fixes
+
+- Account tiles retain their own colours when rearranging My layout, with or without Atlas Glass.
+- Drag indicators clear after dropping or cancelling a move.
+
+---
+
 # V1.0 Release
 
 ## Final fixes

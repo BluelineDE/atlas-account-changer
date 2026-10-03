@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/atlas-header-4k.png" width="780" alt="Atlas Account Changer" />
   <p><strong>Your Steam accounts. Your layout.</strong></p>
-  <p>V1.0 Release · Windows 64-bit</p>
+  <p>V1.0.1 · Windows 64-bit</p>
   <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download Atlas →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
 </div>
 
