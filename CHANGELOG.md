@@ -1,3 +1,19 @@
+# V1.0.2
+
+## Fixes
+
+- Remember window position, monitor and maximized state, with a visible fallback when a monitor is disconnected.
+- Fit notes flyout columns without visible scrollbars; retain mouse-wheel access to longer content.
+- Keep template colours, notices and notes consistent across All accounts, groups and My layout.
+- Remove the dark background from clicked favorite stars on custom tile colours.
+- Place Create Blank Tile before Cancel in Templates.
+
+## Updates
+
+- Check GitHub for a newer stable release on every startup, in the background.
+
+---
+
 # V1.0.1
 
 ## Templates

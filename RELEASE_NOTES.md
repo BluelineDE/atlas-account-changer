@@ -1,18 +1,20 @@
-# Atlas Account Changer — V1.0.1
-
-## What's new
-
-- Edit each saved template using the pencil button next to Delete in the Templates overview.
-- Update its name, colours, notice, notes, group and blank table layout. Cancelling keeps the original template unchanged.
+# Atlas Account Changer — V1.0.2
 
 ## Fixed
 
-- Tiles now keep their own colours when rearranging accounts in My layout, including with Atlas Glass enabled.
-- Drag indicators clear when a move ends or is cancelled.
+- Atlas remembers its window position, monitor and maximized state. If the previous monitor is unavailable, the window opens on an available display.
+- Notes flyouts fit their table and screenshot columns without visible scrollbars. Longer content remains accessible with the mouse wheel.
+- Applying templates to multiple accounts now updates tile colours, notices and notes consistently in All accounts, groups and My layout.
+- Favorite stars no longer show a dark background after clicking on brightly coloured tiles. The filled star still identifies favorites.
+- In Templates, Create Blank Tile is now to the left of Cancel.
+
+## Updates
+
+From V1.0.2 onward, Atlas checks GitHub for a newer stable release every time it starts. The check runs in the background. Click the update indicator in the top bar to open the release page.
 
 ## Install
 
-Download **Atlas_Account_Changer_V1.0.1_Setup.exe** below. Close Atlas before running the installer. Existing accounts and settings are retained when updating or reinstalling.
+Download **Atlas_Account_Changer_V1.0.2_Setup.exe** below. Close Atlas before running the installer. You can update directly from V1.0 or V1.0.1; existing accounts and settings are retained.
 
 ## Windows SmartScreen
 

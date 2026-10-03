@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/atlas-header-4k.png" width="780" alt="Atlas Account Changer" />
   <p><strong>Your Steam accounts. Your layout.</strong></p>
-  <p>V1.0.1 · Windows 64-bit</p>
+  <p>V1.0.2 · Windows 64-bit</p>
   <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download Atlas →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
 </div>
 
@@ -33,7 +33,7 @@ Download Atlas from this repository's official Releases.
 
 ## Updates
 
-When a newer stable release is available, Atlas shows an update indicator in the top bar. Click it to open the new release on GitHub.
+Atlas checks GitHub for a newer stable release every time it starts. When an update is available, an indicator appears in the top bar. Click it to open the new release on GitHub.
 
 ## Feedback
 
