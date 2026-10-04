@@ -1,3 +1,24 @@
+# V1.0.3
+
+## Tags
+
+- Create, edit, recolour, assign and delete multiple tags per account.
+- Preview three compact tag cards per row; search and sort accounts by tag.
+- Preserve tag colours across All accounts, My layout and groups.
+
+## Editing and appearance
+
+- Use the new rounded slider style throughout the app.
+- Match Favorites, Templates and Tags buttons; round the Search table field.
+- Keep tag editors and first-start patch notes opaque, without shadows.
+
+## Updates
+
+- Download and verify newer installers from the update indicator, then start setup.
+- Show patch notes once after an upgrade, while leaving fresh installs clear.
+
+---
+
 # V1.0.2
 
 ## Fixes
