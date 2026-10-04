@@ -1,23 +1,33 @@
-# Atlas Account Changer — V1.0.2
+# Atlas Account Changer — V1.0.3
 
-## Fixed
+## Tags
 
-- Atlas remembers its window position, monitor and maximized state. If the previous monitor is unavailable, the window opens on an available display.
-- Notes flyouts fit their table and screenshot columns without visible scrollbars. Longer content remains accessible with the mouse wheel.
-- Applying templates to multiple accounts now updates tile colours, notices and notes consistently in All accounts, groups and My layout.
-- Favorite stars no longer show a dark background after clicking on brightly coloured tiles. The filled star still identifies favorites.
-- In Templates, Create Blank Tile is now to the left of Cancel.
+- Create, rename, recolour and delete tags. An account can have several tags.
+- Apply a chosen tag directly to multiple selected tiles. Edit or remove a tile's tags from its menu.
+- Preview three compact tags per row in the Tags gallery.
+- Find and sort accounts by tag. Tag colours stay consistent in All accounts, My layout and groups, including after moving tiles.
+- Choose a tag colour with the wheel, brightness slider or HEX code. Text adjusts automatically for contrast.
+
+## Appearance and editing
+
+- All sliders now have a rounded filled track and circular thumb, without the old low/high bar symbols.
+- Favorites, Templates and Tags use matching rounded buttons; the Search table field has rounded corners.
+- Tag editors and patch notes have solid backgrounds. New windows follow the existing opening and closing animations.
 
 ## Updates
 
-From V1.0.2 onward, Atlas checks GitHub for a newer stable release every time it starts. The check runs in the background. Click the update indicator in the top bar to open the release page.
+- V1.0.3 checks for updates at every start and every six hours while running.
+- Click the update notice to download and install the newer version. Atlas verifies the download before launching setup.
+- After an update, the new version's patch notes appear once on the first start. A fresh installation does not show update notes.
+- In V1.0.2, the update notice opens this GitHub release page; download the V1.0.3 installer below.
 
 ## Install
 
-Download **Atlas_Account_Changer_V1.0.2_Setup.exe** below. Close Atlas before running the installer. You can update directly from V1.0 or V1.0.1; existing accounts and settings are retained.
+Download **Atlas_Account_Changer_V1.0.3_Setup.exe** below. Close Atlas before running it. Existing accounts and settings are kept when updating from V1.0.2 or earlier.
 
 ## Windows SmartScreen
 
-Windows may display **“Windows protected your PC”** or **“Unknown publisher”**. This release is unsigned, so its publisher is not verified through a trusted code-signing certificate. New unsigned files may have little or no SmartScreen reputation. This warning alone is not a malware detection. [Microsoft explains SmartScreen](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
+Windows may display **“Windows protected your PC”** or **“Unknown publisher”**. This installer is unsigned, so Windows cannot verify its publisher through a trusted code-signing certificate. New unsigned files may also have little or no SmartScreen reputation. This warning alone is not a malware detection. [Microsoft explains SmartScreen](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
 
 Please download Atlas from this official release.
+
