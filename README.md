@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/atlas-header-4k.png" width="780" alt="Atlas Account Changer" />
   <p><strong>Your Steam accounts. Your layout.</strong></p>
-  <p>V1.0.2 · Windows 64-bit</p>
+  <p>V1.0.3 · Windows 64-bit</p>
   <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download Atlas →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
 </div>
 
@@ -12,6 +12,7 @@
 Atlas Account Changer brings your Steam accounts into one customisable workspace.
 
 - Organise accounts with groups, favorites, search and sorting.
+- Add several coloured tags to an account, then find or sort accounts by tag.
 - Personalise your tiles, colours and layouts.
 - Choose a solid appearance or enable Atlas Glass.
 - Keep notes in editable tables with separate screenshot columns.
@@ -33,7 +34,7 @@ Download Atlas from this repository's official Releases.
 
 ## Updates
 
-Atlas checks GitHub for a newer stable release every time it starts. When an update is available, an indicator appears in the top bar. Click it to open the new release on GitHub.
+Atlas checks GitHub for a newer stable release when it starts and every six hours while it remains open. When an update is available, an indicator appears in the top bar. V1.0.2 opens the release page when you click it. Starting with V1.0.3, Atlas downloads and verifies the installer, then starts setup. Existing users see the new version's patch notes once after updating.
 
 ## Feedback
 
@@ -42,3 +43,4 @@ Found a problem? [Report a bug](https://github.com/BluelineDE/atlas-account-chan
 ---
 
 Atlas is an independent application and is not endorsed by Valve. Steam and the Steam logo are trademarks of Valve. Third-party notices are included with the installer.
+
