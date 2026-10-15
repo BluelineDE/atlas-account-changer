@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/atlas-header-4k.png" width="780" alt="Atlas Account Changer" />
   <p><strong>Your Steam accounts. Your layout.</strong></p>
-  <p>V1.0.3 · Windows 64-bit</p>
+  <p>V1.0.4 · Windows 64-bit</p>
   <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download Atlas →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
 </div>
 
@@ -17,6 +17,11 @@ Atlas Account Changer brings your Steam accounts into one customisable workspace
 - Choose a solid appearance or enable Atlas Glass.
 - Keep notes in editable tables with separate screenshot columns.
 - Reuse your designs with templates.
+- See the active Steam account with an animated outline, including custom colour and RGB modes.
+- Add optional Light or Hardcore winter effects with adjustable snowfall speed.
+- Adjust appearance on four organised Settings pages.
+- Show Atlas on Discord with a project link, or turn it off in Settings.
+- Delete multiple tags or templates together.
 
 ## Download and install
 
@@ -35,6 +40,10 @@ Download Atlas from this repository's official Releases.
 ## Updates
 
 Atlas checks GitHub for a newer stable release when it starts and every six hours while it remains open. When an update is available, an indicator appears in the top bar. V1.0.2 opens the release page when you click it. Starting with V1.0.3, Atlas downloads and verifies the installer, then starts setup. Existing users see the new version's patch notes once after updating.
+
+## Support Atlas
+
+Optional: [support the project](https://www.paypal.com/donate/?hosted_button_id=4EL2PM6B2HSF4) through the Support Atlas button in Settings → General or this link.
 
 ## Feedback
 
