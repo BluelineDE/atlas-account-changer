@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/atlas-header-4k.png" width="780" alt="Atlas Account Changer" />
   <p><strong>Your Steam accounts. Your layout.</strong></p>
-  <p>V1.0.4 · Windows 64-bit</p>
+  <p>V1.0.5 · Windows 64-bit</p>
   <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download Atlas →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
 </div>
 
@@ -15,11 +15,12 @@ Atlas Account Changer brings your Steam accounts into one customisable workspace
 - Add several coloured tags to an account, then find or sort accounts by tag.
 - Personalise your tiles, colours and layouts.
 - Choose a solid appearance or enable Atlas Glass.
+- Add a background image from your PC, with Fill/Fit, darkening and image intensity.
 - Keep notes in editable tables with separate screenshot columns.
 - Reuse your designs with templates.
 - See the active Steam account with an animated outline, including custom colour and RGB modes.
-- Add optional Light or Hardcore winter effects with adjustable snowfall speed.
-- Adjust appearance on four organised Settings pages.
+- Add optional Light or Hardcore winter effects with adjustable snowfall speed, four tile decorations and an optional pause when Atlas is not focused.
+- Adjust appearance on five organised Settings pages, including Background.
 - Show Atlas on Discord with a project link, or turn it off in Settings.
 - Delete multiple tags or templates together.
 

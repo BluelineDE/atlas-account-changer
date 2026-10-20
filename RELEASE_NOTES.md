@@ -1,83 +1,51 @@
-# What's new in V1.0.4
+# What's new in V1.0.5
 
 ## New features
 
-### See your active Steam account
+### A fresh Atlas installer
 
-A subtle animated outline marks the account currently signed in to Steam. During a switch, two soft lights travel along its lower edge until the new account is confirmed. Works in All accounts, My layout and groups.
+A compact new design with the original Atlas branding, clear version transitions and an animated blue-to-cyan progress bar. Used for both new installations and updates.
 
-### RGB outline
+### A picture behind your accounts
 
-Choose Automatic contrast, Custom colour or RGB in Settings → Outline. Adjust light trail speed and RGB colour speed separately. Changes preview live and save with Apply.
+Import a JPG or PNG from your PC or use drag and drop. Choose Fill or Fit, adjust darkening and enjoy a gentle introduction animation. Works with Atlas Glass and winter effects.
 
-### A little winter atmosphere
+### Image intensity
 
-Choose Off, Light or Hardcore in Settings → Winter effects. Hardcore adds snow across the tiles, candy canes and gingerbread figures. Decorations are random each start and follow moved tiles. Set snow fall speed from 0.25× to 2.50×. Works with Glass and solid backgrounds; off by default.
+Control picture visibility from Hidden (0%) to Full (100%) while preserving your Glass transparency. Darken image adjusts brightness separately.
 
-### Settings, easier to find
+### Optional snow pause
 
-Four pages organise your settings: Overlay, Outline, Winter effects and General. Changes preview live; Apply saves them and Cancel restores your previous choices.
+Enable Pause snowfall when Atlas is not focused (more performance) to freeze snowfall while using another app and resume from the same position when you return. Off by default.
 
-### Atlas on Discord
+### More winter companions
 
-Enabled by default: Atlas logo, Organising accounts, elapsed time and a Website button. Account names, login names, Steam IDs, groups, tags and notes stay private. Discord must be running with activity sharing enabled. Turn it off in Settings → General.
-
-### Support Atlas
-
-The optional Support Atlas button in Settings → General opens the project's PayPal donation page in your browser.
-
-### Delete several tags or templates
-
-Use the trash button beside Create tag or Create Blank Tile to select several items. Confirm once to delete them together, or choose Cancel selection to keep everything.
+Hardcore now includes a snowman and a red-nosed reindeer face alongside candy canes and gingerbread figures.
 
 ## Performance
 
-### A smoother first visit to My layout
+### Smoother window resizing
 
-Atlas prepares group tiles in small steps after startup. The first visit can reuse them while keeping your current page, scroll position and saved layout. Search, account changes and navigation stay up to date.
+Tiles keep gliding smoothly into their new rows while Atlas skips redundant layout work and reuses their display order. Background images use faster scaling during the drag and return to their original quality afterwards. The image continues to follow the window size with your selected Fill or Fit mode.
 
-### More efficient grouping and snowfall
+### Static winter drawings are reused
 
-Group membership and ordering are processed more efficiently. Snowfall shares animation layers and keeps the same number of flakes as your account library grows, with fewer ongoing memory allocations. Minimizing pauses animations and preparation.
+Snow caps and decorations reuse prepared drawings. Snowfall resumes using its existing drawing layers, with the same detail and animation speed. Adding accounts does not add falling particles.
 
-## Bug fixes & improvements
+### One managed background image
 
-### Stable outlines and winter decoration
+Background images are optimised locally, loaded once and shared. Importing runs in the background without creating a separate image copy for every tile.
 
-The old account stays marked until Steam confirms the replacement, then the outline fades across. The moving light is always white. Snow covers the full tile width and its upper outline. Decorations move with their tiles and never block clicks. Snow resumes from its previous position after pausing or minimizing.
+### Sliders follow your input
 
-### Tags and templates, easier to clean up
-
-Deleted tags disappear from all account tiles. Deleting a template removes its unchanged applied settings and restores previous values. Later manual changes are kept. Identifiable matching older tiles are also cleaned up; private table values are retained.
-
-### More room for templates
-
-Two complete rows fit without a scrollbar. Scrolling starts with the third row. Previews adjust to the available space and keep their actions visible. Selection and removal use smooth transitions.
-
-### Sharper text and consistent controls
-
-Account text is clearer at different display scales. Sliders share rounded handles and support clicking or dragging. Automatic contrast clearly disables and greys out custom colour controls.
-
-### Compact project information
-
-Settings → General places the version beside a small Info button. Support Atlas uses a compact button with its explanation below it. Both keep the familiar rounded style and hover transitions. Settings remains solid with Glass enabled.
-
-### A clearer notice menu
-
-The tile menu says Add important notice. Apply Important Notice to Multiple Tiles appears only when the source tile has a notice. The account-switch counter has also been removed from Discord activity.
-
-### Your existing setup stays yours
-
-Accounts, groups, tags, templates, colours, notes and window position are retained. This solid news window appears once after an update. OK or X dismisses it for this version; a fresh installation does not open update news.
+Image intensity, Transparency and Milkiness preview directly without repeatedly loading the image or restarting long colour transitions.
 
 ## Install
 
-Download **Atlas_Account_Changer_V1.0.4_Setup.exe** below. Close Atlas before running setup. Existing accounts and settings are retained. The Windows runtime is included.
+Download **Atlas_Account_Changer_V1.0.5_Setup.exe** below for Windows 64-bit. The same installer handles new installations and updates. Existing accounts, settings and imported pictures are retained. No separate runtime installation is required.
 
-V1.0.3 users can click the update notice to download and install this release. Earlier versions open GitHub; download the current installer from this page.
+If Atlas offers an update, click its update indicator to download and verify this installer automatically. You can also close Atlas and run the installer manually.
 
-Update news appear once on the first start after upgrading. A fresh installation does not open update news.
+SHA256 checksums are attached as **Atlas_V1.0.5_SHA256.txt**.
 
-## Windows SmartScreen
-
-This installer is unsigned. Windows may display “Windows protected your PC” or “Unknown publisher”; the publisher is not verified through a trusted code-signing certificate. Download Atlas from this official project.
+This installer is unsigned. See the [Windows SmartScreen information](https://github.com/BluelineDE/atlas-account-changer#windows-smartscreen) before installing.
