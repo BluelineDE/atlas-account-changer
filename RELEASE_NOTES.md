@@ -46,8 +46,4 @@ Download **Atlas_Account_Changer_V1.0.5_Setup.exe** below for Windows 64-bit. Th
 
 If Atlas offers an update, click its update indicator to download and verify this installer automatically. You can also close Atlas and run the installer manually.
 
-**SHA256**
-
-`B5A2DB72F2EE6C89FDD787879B0F1982E679168A8FA904FA95DB0A1D2DD941EC`
-
 This installer is unsigned. See the [Windows SmartScreen information](https://github.com/BluelineDE/atlas-account-changer#windows-smartscreen) before installing.
