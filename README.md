@@ -1,28 +1,61 @@
 <div align="center">
-  <img src="assets/atlas-header-4k.png" width="780" alt="Atlas Account Changer" />
+  <img src="assets/highlights/atlas-header.png" width="780" alt="Atlas Account Changer" />
   <p><strong>Your Steam accounts. Your layout.</strong></p>
-  <p>V1.0.5 · Windows 64-bit</p>
-  <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download Atlas →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
+  <p>Switch accounts and keep their groups, notes and personal workspace together.</p>
+  <p><a href="https://github.com/BluelineDE/atlas-account-changer/releases/latest"><strong>Download for Windows 64-bit →</strong></a> · <a href="https://github.com/BluelineDE/atlas-account-changer/issues">Report a bug</a></p>
 </div>
 
----
+## What makes Atlas yours
 
-## Your accounts, organised
+### A library you can actually organise
 
-Atlas Account Changer brings your Steam accounts into one customisable workspace.
+Keep accounts in groups, mark favorites and give an account several coloured tags. Search and sort your library to get to the account you need.
 
-- Organise accounts with groups, favorites, search and sorting.
-- Add several coloured tags to an account, then find or sort accounts by tag.
-- Personalise your tiles, colours and layouts.
-- Choose a solid appearance or enable Atlas Glass.
-- Add a background image from your PC, with Fill/Fit, darkening and image intensity.
-- Keep notes in editable tables with separate screenshot columns.
-- Reuse your designs with templates.
-- See the active Steam account with an animated outline, including custom colour and RGB modes.
-- Add optional Light or Hardcore winter effects with adjustable snowfall speed, four tile decorations and an optional pause when Atlas is not focused.
-- Adjust appearance on five organised Settings pages, including Background.
-- Show Atlas on Discord with a project link, or turn it off in Settings.
-- Delete multiple tags or templates together.
+### See the account Steam is using
+
+An animated outline marks the active Steam account. During a switch, the previous account stays marked until Steam confirms the new one. Choose automatic contrast, your own colour or RGB, with separate controls for the light trail and colour-cycle speeds.
+
+### Your own layout
+
+Arrange tiles and groups in **My layout**, give accounts recognisable colours and keep your preferred order. Tiles glide into their new positions when the window changes size.
+
+### The context belongs with the account
+
+Keep free-text notes, editable tables and independent screenshot columns together. Put an important notice directly on a tile so a reminder is visible before you open its details.
+
+### Design once, reuse with templates
+
+Save a tile design and apply it to selected accounts. Reuse colours, notices and blank table layouts without rebuilding the same setup for every tile.
+
+### Glass, colour and a background of your own
+
+Choose a solid appearance or **Atlas Glass**. Set colours with a wheel or HEX code, adjust transparency and milkiness, and add a JPG or PNG from your PC. Fill/Fit, image intensity and darkening are separate controls.
+
+### A little winter, when you want it
+
+Choose **Off**, **Light** or **Hardcore**. Adjust snowfall speed and optionally pause it while Atlas is unfocused. Hardcore adds snow and randomly chosen candy canes, gingerbread figures, snowmen and reindeer.
+
+## A look inside
+
+<img src="assets/highlights/workspace-glass.png" width="920" alt="Atlas workspace with a background image, Glass and optional winter effects; fictional account data" />
+
+<table>
+  <tr>
+    <td width="50%"><strong>Notes with room for your own structure</strong><br /><img src="assets/highlights/notes-table.png" width="440" alt="Editable notes table with custom columns and an example screenshot attachment" /></td>
+    <td width="50%"><strong>Reusable tile designs</strong><br /><img src="assets/highlights/templates.png" width="440" alt="Two saved tile templates with different colours and an optional notice" /></td>
+  </tr>
+  <tr>
+    <td><strong>Colour and Glass controls</strong><br /><img src="assets/highlights/appearance-dark.png" width="440" alt="Dark appearance settings with colour wheel, HSV sliders, HEX field and Glass controls" /></td>
+    <td><strong>A light appearance too</strong><br /><img src="assets/highlights/appearance-light.png" width="440" alt="The same appearance settings in the light theme" /></td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Meet the winter companions</strong></summary>
+  <p><img src="assets/highlights/winter-companions.png" width="760" alt="Candy cane, gingerbread figure, snowman and red-nosed reindeer in snow" /></p>
+</details>
+
+*Examples use fictional data. Workspace and appearance views are from V1.0.5. Notes and templates use the local UI preview of existing features; the notes view includes an alignment fix prepared for the next update.*
 
 ## Download and install
 
@@ -53,4 +86,3 @@ Found a problem? [Report a bug](https://github.com/BluelineDE/atlas-account-chan
 ---
 
 Atlas is an independent application and is not endorsed by Valve. Steam and the Steam logo are trademarks of Valve. Third-party notices are included with the installer.
-
