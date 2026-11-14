@@ -80,13 +80,13 @@ Atlas checks GitHub for a newer stable release when it starts and every six hour
 <table>
   <tr>
     <td width="100" align="center"><a href="https://bluelinede-shop.fourthwall.com/en-eur#top"><img src="assets/products/atlas-notch.png" width="80" alt="ATLAS Notch logo" /></a></td>
-    <td><strong>ATLAS Notch</strong><br />A compact desktop bar for your clock, music and account shortcuts.<br /><a href="https://bluelinede-shop.fourthwall.com/en-eur#top">Get ATLAS Notch in the Atlas shop ↗</a></td>
+    <td><strong>ATLAS Notch</strong><br />A compact desktop bar for your clock, music and account shortcuts.<br /><a href="https://bluelinede-shop.fourthwall.com/en-eur#top">Get Atlas Notch here</a></td>
   </tr>
 </table>
 
 ## Support Atlas
 
-Optional: [support the project](https://www.paypal.com/donate/?hosted_button_id=4EL2PM6B2HSF4) through the Support Atlas button in Settings → General or this link.
+[Support Atlas](https://www.paypal.com/donate/?hosted_button_id=4EL2PM6B2HSF4) through the Support Atlas button in Settings → General or this link.
 
 ## Feedback
 
