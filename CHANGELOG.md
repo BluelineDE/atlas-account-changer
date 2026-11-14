@@ -37,14 +37,6 @@ Less repeated work for winter animations, Steam status updates and RGB outlines 
 
 Steam restarts are now checked. A missing start is retried once; a failed restart ends the waiting animation and displays an error.
 
-### Reliable support and shop links
-
-Support and shop links can open through an installed browser if Windows cannot use its default HTTPS association.
-
-### Aligned notes controls
-
-Notes-table actions, search and table content now line up consistently, including wrapped toolbar rows.
-
 ---
 
 # What's new in V1.0.5
