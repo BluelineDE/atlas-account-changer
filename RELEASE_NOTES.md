@@ -1,49 +1,54 @@
-# What's new in V1.0.5
+# What's new in V1.1.0
+
+[![The ATLAS family welcomes ATLAS Notch](https://raw.githubusercontent.com/BluelineDE/atlas-account-changer/main/assets/releases/v1.1.0/atlas-notch.png)](https://bluelinede-shop.fourthwall.com/en-eur#top)
 
 ## New features
 
-### A fresh Atlas installer
+### The ATLAS family welcomes ATLAS Notch
 
-A compact new design with the original Atlas branding, clear version transitions and an animated blue-to-cyan progress bar. Used for both new installations and updates.
+Our new Windows desktop companion puts useful information and controls in a compact, customisable bar.
 
-### A picture behind your accounts
+- Your current game and playtime, plus player numbers, latency and alerts for supported servers.
+- Track information, music playback controls and volume adjustment.
+- CPU, GPU and RAM usage, a clock and a focus timer.
+- Small, Medium and Large layouts with their own module arrangements and smooth transitions.
+- Steam account shortcuts through ATLAS Account Changer, with automatic account and group synchronisation.
 
-Import a JPG or PNG from your PC or use drag and drop. Choose Fill or Fit, adjust darkening and enjoy a gentle introduction animation. Works with Atlas Glass and winter effects.
+…and more. These are just the highlights.
+Notch is available separately and can also be used on its own.
 
-### Image intensity
+[Get Atlas Notch here](https://bluelinede-shop.fourthwall.com/en-eur#top)
 
-Control picture visibility from Hidden (0%) to Full (100%) while preserving your Glass transparency. Darken image adjusts brightness separately.
+### ATLAS Tools
 
-### Optional snow pause
+Open Notch directly, start it with Account Changer, or optionally close both together. The shop button disappears automatically when Notch is detected.
 
-Enable Pause snowfall when Atlas is not focused (more performance) to freeze snowfall while using another app and resume from the same position when you return. Off by default.
+### A new entrance and a cleaner workspace
 
-### More winter companions
-
-Hardcore now includes a snowman and a red-nosed reindeer face alongside candy canes and gingerbread figures.
+ATLAS opens and closes through its floating logo. A compact account header and refreshed About window keep the interface clear.
 
 ## Performance
 
-### Smoother window resizing
+### Less repeated work, the same smooth movement
 
-Tiles keep gliding smoothly into their new rows while Atlas skips redundant layout work and reuses their display order. Background images use faster scaling during the drag and return to their original quality afterwards. The image continues to follow the window size with your selected Fill or Fit mode.
+Less repeated work for winter animations, Steam status updates and RGB outlines while preserving their appearance and smooth movement.
 
-### Static winter drawings are reused
+## Fixes
 
-Snow caps and decorations reuse prepared drawings. Snowfall resumes using its existing drawing layers, with the same detail and animation speed. Adding accounts does not add falling particles.
+### More reliable Steam restarts
 
-### One managed background image
+Steam restarts are now checked. A missing start is retried once; a failed restart ends the waiting animation and displays an error.
 
-Background images are optimised locally, loaded once and shared. Importing runs in the background without creating a separate image copy for every tile.
+### Reliable support and shop links
 
-### Sliders follow your input
+Support and shop links can open through an installed browser if Windows cannot use its default HTTPS association.
 
-Image intensity, Transparency and Milkiness preview directly without repeatedly loading the image or restarting long colour transitions.
+### Aligned notes controls
+
+Notes-table actions, search and table content now line up consistently, including wrapped toolbar rows.
 
 ## Install
 
-Download **Atlas_Account_Changer_V1.0.5_Setup.exe** below for Windows 64-bit. The same installer handles new installations and updates. Existing accounts, settings and imported pictures are retained. No separate runtime installation is required.
+Download **Atlas_Account_Changer_V1.1.0_Setup.exe** below for Windows 64-bit. The same installer handles new installations and updates. Existing accounts, settings and imported pictures are retained.
 
-If Atlas offers an update, click its update indicator to download and verify this installer automatically. You can also close Atlas and run the installer manually.
-
-This installer is unsigned. See the [Windows SmartScreen information](https://github.com/BluelineDE/atlas-account-changer#windows-smartscreen) before installing.
+[Windows SmartScreen information](https://github.com/BluelineDE/atlas-account-changer#windows-smartscreen)
