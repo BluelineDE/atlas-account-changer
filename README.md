@@ -55,7 +55,7 @@ Choose **Off**, **Light** or **Hardcore**. Adjust snowfall speed and optionally 
   <p><img src="assets/highlights/winter-companions.png" width="760" alt="Candy cane, gingerbread figure, snowman and red-nosed reindeer in snow" /></p>
 </details>
 
-*Examples use fictional data. Workspace and appearance views are from V1.0.5. Notes and templates use the local UI preview of existing features; the notes view includes an alignment fix prepared for the next update.*
+*Examples use fictional data. Workspace and appearance views are from V1.0.5. Notes and templates use a local UI preview; the notes alignment is included in V1.1.0.*
 
 ## Download and install
 
@@ -86,7 +86,7 @@ Atlas checks GitHub for a newer stable release when it starts and every six hour
 
 ## Support Atlas
 
-[Support Atlas](https://www.paypal.com/donate/?hosted_button_id=4EL2PM6B2HSF4) through the Support Atlas button in Settings → General or this link.
+[Support Atlas](https://www.paypal.com/donate/?hosted_button_id=4EL2PM6B2HSF4) through the Donate button in Settings → General → ATLAS Account Changer Info or this link.
 
 ## Feedback
 
