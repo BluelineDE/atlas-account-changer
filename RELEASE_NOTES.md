@@ -39,14 +39,6 @@ Less repeated work for winter animations, Steam status updates and RGB outlines 
 
 Steam restarts are now checked. A missing start is retried once; a failed restart ends the waiting animation and displays an error.
 
-### Reliable support and shop links
-
-Support and shop links can open through an installed browser if Windows cannot use its default HTTPS association.
-
-### Aligned notes controls
-
-Notes-table actions, search and table content now line up consistently, including wrapped toolbar rows.
-
 ## Install
 
 Download **Atlas_Account_Changer_V1.1.0_Setup.exe** below for Windows 64-bit. The same installer handles new installations and updates. Existing accounts, settings and imported pictures are retained.
